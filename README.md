@@ -260,7 +260,7 @@ LeKoala\DebugBar\DebugBar:
 
 ### Troubleshooting
 
-#### Using Vagrant
+#### Using Vagrant or Docker
 
 If you are using Vagrant (or presumably Docker or other virtualisation) and the DebugBar
 isn't showing up, make sure you have the `check_local_ip` config option set to `false`. This
